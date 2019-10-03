@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/magebuzz-shop-by-manufacturer",
+    "name": "openmage-module-fostering\/magebuzz-shop-by-manufacturer",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Shop by Manufacturer \/ Shop by brand",
     "authors": [
